@@ -13,7 +13,7 @@ body {
     font-size: 2.5vw;
     background: url("../img/back-left.png") left top no-repeat, url("../img/back-right.png") right top no-repeat;
     background-attachment: fixed;
-    background-color: #152347;
+    background-color: #b4b4b4;
     background-size: cover;
     background-blend-mode: hard-light;
 }
@@ -24,7 +24,7 @@ a {
 }
 
 #navbar {
-    width: 100%;
+    width: 90%;
     clear: both;
     height: 1em;
     font-size: 4em;
@@ -53,7 +53,7 @@ a {
 }
 
 #logo img {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 
@@ -161,10 +161,10 @@ li a:hover {
 #footer {
     bottom: 0;
     position: absolute;
-    width: 100%;
+    width: 90%;
     font-size: 0.5em;
     margin-top: 5em;
-    background: #1f2d4f;
+    background:#3c3c3c;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -179,7 +179,7 @@ li a:hover {
 #footer div {
     text-align: center;
     height: 5em;
-    color: #fff;
+    color: #3c3c3c;
     box-sizing: border-box;
     margin: 0;
 }
